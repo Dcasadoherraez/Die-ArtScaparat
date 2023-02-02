@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 CHARS = ',."'
 CHARS_NAME = " ()';`"
 font_path = "./atwriter.ttf"
-data_path = "./backk"
+data_path = "./back"
 PAGES = [1, 2]
 NUM_IMAGES = 20
 

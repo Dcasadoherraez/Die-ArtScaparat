@@ -13,14 +13,14 @@ pip install beautifulsoup4 unidecode
 ### 1. Get a bunch of masterpieces
 
 ```
-python3 1back.pu
+python3 downloader.py
 ```
 
 ### 2. Set the background to your launch script
 
 1. Search for `Startup Applications` in Ubuntu.
 2. Click `Add`
-3. Name: `Die ArtScaparat`, Command: `python3 <path-to-script>/1change.py`
+3. Name: `Die ArtScaparat`, Command: `python3 <local-path-to-repo>/Die-ArtScaparat/changer.py`
 
 ### 3. Done! Ready to impress everyone with your knowledge on masterpieces 🎨🖌️👨‍🎨
 
