@@ -3,7 +3,7 @@
 Learn art easy and unconsciously! _🎨🖌️ Die ArtScaparat 🎨🖌️_ will give you a new masterpiece as your wallpaper every time you turn on your Linux PC.
 It even shows the title and artist!
 
-![Drag Racing](Dragster.jpg)
+![My wallpaper today!](show.png)
 
 ## Requirements
 
