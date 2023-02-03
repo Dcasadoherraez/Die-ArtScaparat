@@ -3,10 +3,10 @@ import time
 import os
 from  random import randrange
 from PIL import Image, ImageDraw, ImageFont
+from pathlib import Path
 
 # change this to the path of your csv file
-csv_path = "./back/artvee.csv"
-
+csv_path = os.path.join(os.path.dirname(Path(__file__).absolute()), "back/artvee.csv")
 
 # Function to set background
 def set_background(path):
