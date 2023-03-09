@@ -11,6 +11,7 @@ csv_path = os.path.join(os.path.dirname(Path(__file__).absolute()), "back/artvee
 # Function to set background
 def set_background(path):
     os.system("gsettings set org.gnome.desktop.background picture-uri file://" + path)
+    os.system("gsettings set org.gnome.desktop.background picture-options scaled")
 
 
 if __name__ == "__main__":
